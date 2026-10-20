@@ -18,6 +18,16 @@ Una rete neurale / intelligenza artificiale capace di rendere opere bidimensiona
 
 Pizzerie solo asporto, posizionati in prossimità di stazioni ferroviarie che sono approssimativamente a metà di tratte regionali trafficate (Novara o Magenta per la Torino-Milano) specializzate nella consegna sui treni. Il cliente potrebbe specificare il numero di carrozza e di treno, ed il fattorino la porta sul treno (pagando biglietto per tratta minima scendendo alla prima stazione e tornando indietro col treno dopo, o non salendo proprio con pagamento anticipato)
 
+### Cargo Bike di quartiere
+
+Uno dei pochi utilizzi utili dell'auto è la spesa. Una cargo bike costa troppo per un casual user. Cargo Bike noleggiabili a prezzo simbolico darebbero occasione di provarla ed usarla quando serve
+
+### Progetto di comunità: raccolta spazzatura in bici
+
+Sviluppare un supporto economico e resistente per attaccare ad una bici un piccolo cestino ed un bastone di quelli con la pinza per raccogliere la spazzatura.
+Questi sarebbero poi forniti gratuitamente ai volontari, installati sulle bici magari in ciclo-officine partner a prezzo simbolico, così da creare uno sciame di pulitori.
+Organizzazione di eventi settimanali dove ogni cestino riempito viene pagato (fondi cittadini)
+
 ### letterbox ma per le mostre
 
 idea che si spiega da sola e poco emozionante da sviluppare veramente
