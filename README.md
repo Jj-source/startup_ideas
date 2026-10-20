@@ -20,7 +20,8 @@ Pizzerie solo asporto, posizionati in prossimità di stazioni ferroviarie che so
 
 ### Cargo Bike di quartiere
 
-Uno dei pochi utilizzi utili dell'auto è la spesa. Una cargo bike costa troppo per un casual user. Cargo Bike noleggiabili a prezzo simbolico darebbero occasione di provarla ed usarla quando serve
+Uno dei pochi utilizzi utili dell'auto è la spesa. Una cargo bike costa troppo per un casual user. Cargo Bike noleggiabili a prezzo simbolico darebbero occasione di provarla ed usarla quando serve. 
+Ulteriore possibile utilizzo: portare nonna alle visite mediche. in auto è una rottura, in bici molto più immediato.
 
 ### Progetto di comunità: raccolta spazzatura in bici
 
