@@ -14,3 +14,11 @@ Un esempio: trovare un modo per rendere carcassonne un city builder magari
 
 Una rete neurale / intelligenza artificiale capace di rendere opere bidimensionali (foto, quadri, ecc) tridimensionali per essere fruite in maniera tattile da visitatori, sotto forma di file adatti ad una stampa 3d o altri metodi di fabbricazione economici per massima diffusione
 
+### Pizzerie per pendolari
+
+Pizzerie solo asporto, posizionati in prossimità di stazioni ferroviarie che sono approssimativamente a metà di tratte regionali trafficate (Novara o Magenta per la Torino-Milano) specializzate nella consegna sui treni. Il cliente potrebbe specificare il numero di carrozza e di treno, ed il fattorino la porta sul treno (pagando biglietto per tratta minima scendendo alla prima stazione e tornando indietro col treno dopo, o non salendo proprio con pagamento anticipato)
+
+### letterbox ma per le mostre
+
+idea che si spiega da sola e poco emozionante da sviluppare veramente
+
