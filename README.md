@@ -38,5 +38,15 @@ idea che si spiega da sola e poco emozionante da sviluppare veramente
 
 ### Film su USB di quartiere
 
-distribuire gratuitamente chiavette USB con i più famosi film per bambini in italiano,con sottotitoli in tutte le lingue rilevanti a livello migratorio, per dare sollievo ai genitori migranti ed aiutare nell'apprendimento dell'Italia.
+distribuire gratuitamente chiavette USB con i più famosi film per bambini e ragazzi in italiano, con sottotitoli in tutte le lingue rilevanti a livello migratorio, per dare sollievo ai genitori migranti ed aiutare nell'apprendimento dell'Italiano.
+
+una raccolta curata anche per ragazzi e giovani adulti per aiutare a crescere.
+
+### Pedonalizzazione via Cibrario 
+
+questa è un po' strana ma trovo via Cibrario nettamente meglio di via Garibaldi. Una pedonalizzazione alla nord Europa con il tram che passa al centro insieme ai pedoni, tutto verde con prato. ci sono negozietti e forni molto migliori di quelli di via Garibaldi
+
+### External accounting and tracking for gtt
+
+scrivere un programma che ad intervalli regolari ottenga i file gfs dati gratuitamente da GTT con i pullman in movimento e sia in grado di dare, per ogni linea ed ogni orario, una quantificazione dei passaggi effettivi, ed un valore sul ritardo, così da dare delle percentuali di affidabilità che sarebbero utili per pianificare spostamenti (in particolare quello serali)
 
