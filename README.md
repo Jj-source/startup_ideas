@@ -21,7 +21,7 @@ Una rete neurale / intelligenza artificiale capace di rendere opere bidimensiona
 
 Pizzerie solo asporto, posizionati in prossimità di stazioni ferroviarie che sono approssimativamente a metà di tratte regionali trafficate (Novara o Magenta per la Torino-Milano) specializzate nella consegna sui treni. Il cliente potrebbe specificare il numero di carrozza e di treno, ed il fattorino la porta sul treno (pagando biglietto per tratta minima scendendo alla prima stazione e tornando indietro col treno dopo, o non salendo proprio con pagamento anticipato)
 
-### Cargo Bike di quartiere
+### Progetto di comunità: Cargo Bike di quartiere
 
 Uno dei pochi utilizzi utili dell'auto è la spesa. Una cargo bike costa troppo per un casual user. Cargo Bike noleggiabili a prezzo simbolico darebbero occasione di provarla ed usarla quando serve. 
 Ulteriore possibile utilizzo: portare nonna alle visite mediche. in auto è una rottura, in bici molto più immediato.
@@ -36,7 +36,7 @@ Organizzazione di eventi settimanali dove ogni cestino riempito viene pagato (fo
 
 idea che si spiega da sola e poco emozionante da sviluppare veramente
 
-### Film su USB di quartiere
+### Progetto di comunità: Film su USB di quartiere
 
 distribuire gratuitamente chiavette USB con i più famosi film per bambini e ragazzi in italiano, con sottotitoli in tutte le lingue rilevanti a livello migratorio, per dare sollievo ai genitori migranti ed aiutare nell'apprendimento dell'Italiano.
 
