@@ -36,3 +36,7 @@ Organizzazione di eventi settimanali dove ogni cestino riempito viene pagato (fo
 
 idea che si spiega da sola e poco emozionante da sviluppare veramente
 
+### Film su USB di quartiere
+
+distribuire gratuitamente chiavette USB con i più famosi film per bambini in italiano,con sottotitoli in tutte le lingue rilevanti a livello migratorio, per dare sollievo ai genitori migranti ed aiutare nell'apprendimento dell'Italia.
+
