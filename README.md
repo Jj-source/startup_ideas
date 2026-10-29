@@ -46,7 +46,17 @@ una raccolta curata anche per ragazzi e giovani adulti per aiutare a crescere.
 
 questa è un po' strana ma trovo via Cibrario nettamente meglio di via Garibaldi. Una pedonalizzazione alla nord Europa con il tram che passa al centro insieme ai pedoni, tutto verde con prato. ci sono negozietti e forni molto migliori di quelli di via Garibaldi
 
+## Inerenti alla mobilità 
+
 ### External accounting and tracking for gtt
 
 scrivere un programma che ad intervalli regolari ottenga i file gfs dati gratuitamente da GTT con i pullman in movimento e sia in grado di dare, per ogni linea ed ogni orario, una quantificazione dei passaggi effettivi, ed un valore sul ritardo, così da dare delle percentuali di affidabilità che sarebbero utili per pianificare spostamenti (in particolare quello serali)
+
+### Clacson duplice
+
+siccome il clacson è un arma abusata dagli automobilisti incivili, renderei simmetrico il danno: il clacson suona anche dentro al veicolo. ciò farebbe passare la voglia di usarlo
+
+### Diminuire le fermate dei mezzi
+
+a Torino il secondo problema dei pullman, dopo le auto, è l'eccessivo numero di fermate che lo fa stare sempre fermi. andrebbero diminuite
 
